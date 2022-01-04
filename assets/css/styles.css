@@ -1,0 +1,96 @@
+.body{
+  background-color: #CDF0EA;
+  margin-top: auto;
+  padding:10% 15% ;
+  padding-top:5%;
+  font-style: normal;
+}
+.nl-header{
+background-color:white;
+}
+.navbar{
+  padding-left:5%;
+}
+
+.navbarNav{
+  margin-left: 50rem;
+}
+a:hover{
+  background-color:#FF7272;
+
+}
+.navbar-brand{
+  font-family: "Montserrat-Black";
+  font-size:3rem;
+}
+
+.home{
+  font-family:"Montserrat-Black";
+  padding:5%;
+  color: white;
+}
+.nav-item{
+padding:0 5rem;
+}
+.btn{
+  padding: 15%;
+}
+
+.home__img
+{
+margin-left: 19%;
+}
+.about-me{
+  padding:12rem 3rem;
+}
+.about-text{
+  font-family: "Ubuntu";
+  color:white;
+}
+.about-me-{
+  font-size:1.5rem;
+  font-family:"Ubuntu" ;
+  padding:2.5rem 0;
+}
+
+.image-home
+{
+  height:15rem;
+  padding:0 8rem;
+
+}
+
+
+
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.DSA {width: 80%; background-color: #04AA6D;}
+.frontend {width: 70%; background-color: #2196F3;}
+.backend {width: 70%; background-color: #f44336;}
+.CP {width: 85%; background-color: #808080;}
+
+.skills-map{
+  font-family: "Ubuntu"
+
+}
+
+
+.footer{
+padding:15rem 0 0 0;
+font-family: "Ubuntu";
+
+}
+.footer__social{
+  padding:0 5rem;
+}
